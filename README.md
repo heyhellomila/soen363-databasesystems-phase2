@@ -18,7 +18,7 @@ We chose MongoDB as our NoSQL database, it is document-based.
 
 Download the community edition from : [here](https://www.mongodb.com/download-center/community)
 
-## Database
+## Dataset
 We selected the following dataset from Kaggle:  [Safebooru - Anime Image Metadata](https://www.kaggle.com/alamson/safebooru#all_data.csv)
 
 * Metadata: 2,736,037 rows of tag-based anime image metadata
