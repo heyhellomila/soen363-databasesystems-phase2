@@ -46,5 +46,7 @@ Install Studio3T GUI to help streamline the queries and importing
 
 __Documentation__ : [Studio3T GUI](https://studio3t.com/knowledge-base/articles/visual-query-builder/)
 
+## Running Queries and Code
+
 For how to execute the queries and the queries themselves, 
 __please look at the documentation report [`ProjectPhase2-29575774_40033295_26307647.pdf`](https://github.com/milaroisin/soen363-databasesystems-phase2/blob/master/ProjectPhase2-29575774_40033295_26307647.pdf)__
